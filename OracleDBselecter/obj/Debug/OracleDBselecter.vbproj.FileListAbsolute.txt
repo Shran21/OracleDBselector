@@ -1,0 +1,303 @@
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\local-admin\AppData\Local\Temporary Projects\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\local-admin\source\repos\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\szaboj\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\Shran\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\Shran\Desktop\VBbackup pro\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\local-admin\Desktop\OracleDBselecter\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\szaboj\Desktop\OracleDBselecter2019.09.12\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\OracleDBselecter.exe.config
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\netstandard.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.AppContext.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Collections.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.ComponentModel.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Console.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Data.Common.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Globalization.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.Compression.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.Pipes.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Linq.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.Http.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.Ping.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.Requests.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.Security.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.Sockets.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.ObjectModel.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Reflection.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Resources.Reader.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Resources.Writer.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.Claims.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.Principal.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Security.SecureString.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Text.Encoding.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Threading.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Threading.Thread.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Threading.Timer.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.ValueTuple.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Xml.XPath.dll
+C:\Users\Shran\Desktop\OracleDBselecter2020.02.13\OracleDBselecter\bin\Debug\System.Xml.XPath.XDocument.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\OracleDBselecter.exe.config
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\OracleDBselecter.exe
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\OracleDBselecter.pdb
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\OracleDBselecter.xml
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\Microsoft.Win32.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\netstandard.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.AppContext.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Collections.Concurrent.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Collections.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Collections.NonGeneric.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Collections.Specialized.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.ComponentModel.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.ComponentModel.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.ComponentModel.TypeConverter.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Console.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Data.Common.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.Contracts.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.Debug.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.Process.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.StackTrace.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.Tools.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.TraceSource.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Diagnostics.Tracing.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Drawing.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Dynamic.Runtime.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Globalization.Calendars.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Globalization.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Globalization.Extensions.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.Compression.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.Compression.ZipFile.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.FileSystem.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.FileSystem.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.FileSystem.Watcher.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.IsolatedStorage.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.MemoryMappedFiles.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.Pipes.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Linq.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Linq.Expressions.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Linq.Parallel.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Linq.Queryable.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.Http.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.NameResolution.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.NetworkInformation.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.Ping.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.Requests.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.Security.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.Sockets.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.WebHeaderCollection.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.WebSockets.Client.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Net.WebSockets.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.ObjectModel.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Reflection.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Reflection.Extensions.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Reflection.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Resources.Reader.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Resources.ResourceManager.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Resources.Writer.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.Extensions.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.Handles.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.InteropServices.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.Numerics.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Formatters.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Json.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Runtime.Serialization.Xml.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.Claims.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.Cryptography.Algorithms.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.Cryptography.Csp.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.Cryptography.Encoding.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.Cryptography.Primitives.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.Principal.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Security.SecureString.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Text.Encoding.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Text.Encoding.Extensions.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Text.RegularExpressions.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Threading.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Threading.Overlapped.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Threading.Tasks.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Threading.Tasks.Parallel.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Threading.Thread.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Threading.ThreadPool.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Threading.Timer.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.ValueTuple.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Xml.ReaderWriter.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Xml.XDocument.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Xml.XmlDocument.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Xml.XmlSerializer.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Xml.XPath.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\System.Xml.XPath.XDocument.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\bin\Debug\Oracle.ManagedDataAccess.dll
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.vbprojAssemblyReference.cache
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.Form1.resources
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.Resources.resources
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.GenerateResource.cache
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CoreCompileInputs.cache
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.vbproj.CopyComplete
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.exe
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.xml
+T:\VB.net projects\Nukleo-med projekt\OracleDBselecter - 2020.11.11\OracleDBselecter2020.11.11 - NAP\OracleDBselecter\obj\Debug\OracleDBselecter.pdb
